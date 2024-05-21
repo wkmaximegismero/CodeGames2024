@@ -2,7 +2,7 @@
   "id": 100,
   "totalAmount": 91.20,
   "currency": "EUR",
-  "dateTime": "2024-01-26T17:01:0Z",
+  "createdAt": "2024-01-26T17:01:0Z",
   "companyName":"BVBA O'Serieus",
   "vatNr":"BE0695560472",
   "street":"Dorpstraat",
