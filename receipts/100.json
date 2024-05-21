@@ -28,7 +28,7 @@
     {"pos":16,"amount": 1, "vatCode": "B", "name": "Gebak vd Dag", "price": 5.50},
     {"pos":17,"amount": 1, "vatCode": "A", "name": "Cola", "price": 2.70}    
   ],
-  "totals":[
+  "subTotals":[
     {"vatPercentage":"12%", "vatCode":"B", "netAmount":47.59,"vatAmount":5.71, "subTotal":53.30},
     {"vatPercentage":"21%", "vatCode":"A", "netAmount":31.32,"vatAmount":6.58, "subTotal":37.90}
   ],
