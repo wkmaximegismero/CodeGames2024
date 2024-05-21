@@ -1,4 +1,10 @@
 {
   "id": 100,
-  "attachments": [ "" ]
+  "totalAmount": 91.20,
+  "currency": "EUR",
+  "lines": [
+    {
+    },
+  ],
+  "attachments": [ "https://github.com/wkmaximegismero/CodeGames2024/blob/main/receipts/100/bonnetje%2010.pdf" ]
 }
