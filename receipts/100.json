@@ -33,5 +33,5 @@
     {"vatPercentage":"21%", "vatCode":"A", "netAmount":31.32,"vatAmount":6.58, "subTotal":37.90}
   ],
   "paymentMethod":"Card",
-  "attachments": [ "https://github.com/wkmaximegismero/CodeGames2024/blob/main/receipts/100/bonnetje%2010.pdf" ]
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/100/bonnetje%2010.pdf" ]
 }
