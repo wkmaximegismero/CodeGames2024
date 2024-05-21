@@ -26,8 +26,7 @@
     {"pos":14,"amount": 1, "vatCode": "A", "name": "Homemade Ice T", "price": 5.00},
     {"pos":15,"amount": 1, "vatCode": "A", "name": "Virgin Mojito", "price": 5.00},
     {"pos":16,"amount": 1, "vatCode": "B", "name": "Gebak vd Dag", "price": 5.50},
-    {"pos":17,"amount": 1, "vatCode": "A", "name": "Cola", "price": 2.70},
-    
+    {"pos":17,"amount": 1, "vatCode": "A", "name": "Cola", "price": 2.70}    
   ],
   "totals":[
     {"vatPercentage":"12%", "vatCode":"B", "netAmount":47.59,"vatAmount":5.71, "subTotal":53.30},
