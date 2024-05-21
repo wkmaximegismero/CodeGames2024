@@ -2,9 +2,37 @@
   "id": 100,
   "totalAmount": 91.20,
   "currency": "EUR",
+  "dateTime": "2024-01-26T17:01:0Z",
+  "companyName":"BVBA O'Serieus",
+  "vatNr":"BE0695560472",
+  "street":"Dorpstraat",
+  "houseNr":"21",
+  "zipCode":"1840",
+  "town":"Londerzeel",
   "lines": [
-    {
-    },
+    {"pos":1,"amount": 1, "vatCode": "A", "name": "Warme choco", "price": 4.20},
+    {"pos":2,"amount": 2, "vatCode": "A", "name": "Bio Appelsap", "price": 6.00},
+    {"pos":3,"amount": 2, "vatCode": "A", "name": "*33cl", "price": 1.60},
+    {"pos":4,"amount": 1, "vatCode": "A", "name": "Chai Latté", "price": 4.20},
+    {"pos":5,"amount": 2, "vatCode": "B", "name": "SpIegeleikes met spek", "price": 16.80},
+    {"pos":6,"amount": 1, "vatCode": "B", "name": "Divers", "price": 6.00},
+    {"pos":7,"amount": 1, "vatCode": "B", "name": "Divers", "price": 1.00},
+    {"pos":8,"amount": 1, "vatCode": "A", "name": "Homemade Ice T", "price": 5.00},
+    {"pos":9,"amount": 1, "vatCode": "A", "name": "Warme choco", "price": 4.20},
+    {"pos":10,"amount": 1, "vatCode": "B", "name": "Soep vd Dag", "price": 5.20},
+    {"pos":11,"amount": 1, "vatCode": "B", "name": "*Brood", "price": 0.80},
+    {"pos":12,"amount": 1, "vatCode": "B", "name": "Soep vd Dag", "price": 5.20},
+    {"pos":13,"amount": 1, "vatCode": "B", "name": "Boke gehaktbroodje", "price": 12.80},
+    {"pos":14,"amount": 1, "vatCode": "A", "name": "Homemade Ice T", "price": 5.00},
+    {"pos":15,"amount": 1, "vatCode": "A", "name": "Virgin Mojito", "price": 5.00},
+    {"pos":16,"amount": 1, "vatCode": "B", "name": "Gebak vd Dag", "price": 5.50},
+    {"pos":17,"amount": 1, "vatCode": "A", "name": "Cola", "price": 2.70},
+    
   ],
+  "totals":[
+    {"vatPercentage":"12%", "vatCode":"B", "netAmount":47.59,"vatAmount":5.71, "subTotal":53.30},
+    {"vatPercentage":"21%", "vatCode":"A", "netAmount":31.32,"vatAmount":6.58, "subTotal":37.90}
+  ],
+  "paymentMethod":"Card",
   "attachments": [ "https://github.com/wkmaximegismero/CodeGames2024/blob/main/receipts/100/bonnetje%2010.pdf" ]
 }
