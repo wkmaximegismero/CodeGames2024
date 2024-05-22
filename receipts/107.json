@@ -1,0 +1,32 @@
+{
+    "id": 108,
+    "totalAmount": 26.00,
+    "currency": "EUR",
+    "createdAt": "2024-05-18T10:44:00.563Z",
+    "companyName":"Spar",
+    "street":"Paalbergweg",
+    "houseNr":"21",
+    "zipCode":"7351",
+    "town":"Hoenderloo",
+    "country":"NL",
+    "lines": [
+      {"pos":1,"amount": 1, "name": "Tijger V1. Bruin Ha", "price": 1.75},
+      {"pos":2,"amount": 1, "name": "Waldkorn Bruin Heel", "price": 3.59},
+      {"pos":3,"amount": 1, "name": "hoenderloo & blond", "price": 2.49},
+      {"pos":4,"amount": 1, "name": "Statiegeld", "price": 0.10},
+      {"pos":5,"amount": 1, "name": "hoenderloo & blond", "price": 2.49},
+      {"pos":6,"amount": 1, "name": "Statiegeld", "price": 0.10},
+      {"pos":7,"amount": 1, "name": "Dub Donker Bruin He", "price": 3.49},
+      {"pos":8,"amount": 1, "name": "Veluuse boshoning", "price": 8.00},
+      {"pos":9,"amount": 1, "name": "VELUWSE APPELSTROOP", "price": 3.99}
+    ],
+    "totals":[
+      {"vatPercentage":"9%", "vatCode":"A", "vatAmount":1.72, "subTotal":20.82},
+      {"vatPercentage":"21%", "vatCode":"B", "vatAmount":0.86, "subTotal":4.98},
+      {"vatPercentage":"0%", "vatCode":"C", "vatAmount":0, "subTotal":0.20}
+
+    ],
+    "paymentMethod":"Debit Mastercard",
+    "attachments": [ "ADD HERE ticket 9" ]
+  }
+  

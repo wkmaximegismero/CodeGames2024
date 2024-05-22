@@ -1,0 +1,20 @@
+{
+    "id": 108,
+    "totalAmount": 32.00,
+    "currency": "EUR",
+    "createdAt": "2024-03-30T11:13:41.000Z",
+    "companyName":"Nationaal Glasmuseum",
+    "street":"Lingedijk",
+    "houseNr":"28",
+    "town":"Leerdam",
+    "country":"NL",
+    "lines": [
+      {"pos":1,"amount": 2, "price": 16.00}
+    ],
+    "totals":[
+      {"vatPercentage":"9%", "netAmount":29.63,"vatAmount":2.64}
+    ],
+    "paymentMethod":"Visa Debit",
+    "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/100/bonnetje%203.pdf" ]
+  }
+  

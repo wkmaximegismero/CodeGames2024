@@ -1,0 +1,18 @@
+{
+  "id": 103,
+  "totalAmount": 4.50,
+  "currency": "EUR",
+  "createdAt": "2023-11-24T06:06:00.000Z",
+  "companyName":"Mobiliteitsbedrijf Stad Gent",
+  "vatNr":"BE0207451227",
+  "street":"Woodrow Wilsonplein",
+  "houseNr":"1",
+  "zipCode":"9000",
+  "town":"Gent",
+  "country":"BE",
+  "totals":[
+    {"vatPercentage":"21%", "vatAmount":0.87, "subTotal":4.50}
+  ],
+  "paymentMethod":"Card",
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/100/bonnetje%2011.pdf" ]
+}

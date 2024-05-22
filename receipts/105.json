@@ -1,0 +1,20 @@
+{
+    "id": 105,
+    "totalAmount": 97.50,
+    "currency": "EUR",
+    "createdAt": "2024-03-29T16:30:46.563Z",
+    "companyName":"Nationaal Glasmuseum",
+    "street":"Lingedijk",
+    "houseNr":"28",
+    "town":"Leerdam",
+    "country":"NL",
+    "lines": [
+      {"pos":1,"amount": 5, "price": 19.50}
+    ],
+    "totals":[
+      {"vatPercentage":"21%", "netAmount":80.58,"vatAmount":16.92}
+    ],
+    "paymentMethod":"Visa Debit",
+    "attachments": [ "ADD HERE" ]
+  }
+  

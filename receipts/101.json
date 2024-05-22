@@ -1,0 +1,24 @@
+{
+  "id": 101,
+  "totalAmount": 17.00,
+  "currency": "EUR",
+  "createdAt": "2024-03-30T13:00:00.000Z",
+  "companyName":"SABROSO",
+  "street":"HOOGSTRAAT",
+  "houseNr":"68",
+  "zipCode":"4141BD",
+  "town":"LEERDAM",
+  "country":"NL",
+  "lines": [
+    {"pos":1,"amount": 1, "vatCode": "A", "name": "Gezond", "price": 6.20},
+    {"pos":2,"amount": 1, "vatCode": "A", "name": "Oude kaas", "price": 6.50},
+    {"pos":3,"amount": 1, "vatCode": "A", "name": "Ice tea", "price": 2.00},
+    {"pos":4,"amount": 2, "vatCode": "C", "name": "STATUEGELD 0,15", "price": 0.30},
+    {"pos":5,"amount": 1, "vatCode": "A", "name": "Cola", "price": 2.00}    
+  ],
+  "totals":[
+    {"vatPercentage":"9%", "vatCode":"A", "netAmount":15.32,"vatAmount":1.38, "subTotal":16.70},
+    {"vatPercentage":"0%", "vatCode":"C", "netAmount":0.30,"vatAmount":0.00, "subTotal":0.30}
+  ],
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/101/bonnetje%205.pdf" ]
+}

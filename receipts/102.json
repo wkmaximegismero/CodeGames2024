@@ -1,0 +1,11 @@
+{
+  "id": 102,
+  "totalAmount": 12.75,
+  "currency": "EUR",
+  "createdAt": "2024-01-29T20:42:59.000Z",
+  "companyName":"BBVA ",
+  "vatNr":"*****7425",
+  "town":"BARCELONA",
+  "country":"ES",
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/101/bonnetje%202.pdf" ]
+}
