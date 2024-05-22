@@ -15,6 +15,6 @@
       {"vatPercentage":"21%", "netAmount":80.58,"vatAmount":16.92}
     ],
     "paymentMethod":"Visa Debit",
-    "attachments": [ "ADD HERE" ]
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/105/bonnetje.pdf" ]
   }
   
