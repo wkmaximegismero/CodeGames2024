@@ -12,6 +12,6 @@
     "totals":[
       {"vatPercentage":"10%", "vatCode":"10%", "netAmount":11.95,"vatAmount":1.20}
     ],
-    "attachments": [ "ADD HERE BON 6" ]
+  "attachments": [ "https://raw.githubusercontent.com/wkmaximegismero/CodeGames2024/main/receipts/106/bonnetje.pdf" ]
   }
   
